@@ -5,6 +5,7 @@ class ListsController < ApplicationController
   end
 
   def show
+    # raise
   end
 
   def new
